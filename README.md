@@ -2,6 +2,13 @@
 
 ## FOR EDIUCATIONAL PURPOSE ONLY
 
+## New Update
+**Change Log:**
+   - Penambahan Fitur Auto Click Email
+   - Penambahan 2 Input Text Field
+   - Penambahan Delay 1 Detik Klik Kirim
+
+## How To Use
 1. **User Android**
    - Copy Script Di Raw Ini, Lalu Salin Kodenya Dan Masuk Ke Target Google Form, Dan Pastekan Di Pencarian Chrome
    ```
